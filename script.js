@@ -1,5 +1,5 @@
 const dataPoints = [];
-const extrapolationFactor = 4;
+const extrapolationFactor = 1;
 
 class DataPoint {
     constructor() {
